@@ -1,0 +1,9 @@
+30/03/2021
+Participants:
+James Florin Petri
+Cael Timmons
+Heather Bruen
+
+- We reviewed the pictures we made for the trainign
+- We started the labeling process
+- We prepared the Tensorflow trainer 

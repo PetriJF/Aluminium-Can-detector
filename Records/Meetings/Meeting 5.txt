@@ -1,0 +1,41 @@
+Meeting 5, 22/2/2021
+Scribe: James Florin Petri
+
+About video
+
+Goals:
+-Have a subsystem of a litter detection software specialising on cans
+
+Resources used:
+- Choose a neural network 
+- Find some datasets
+- 
+
+Problems/Difficulties:
+- Finding appropriate datasets
+- Accounting for deformaty
+- Accounting for external effects on the detection (If the can is in grass)
+
+Process/Progess:
+- We decided on Tensorflow
+    --- Give 3 to 4 reasons (Compare to mathworks and other python alternatives such as OpenCV)
+- We started searching for datasets on kaggle
+    --- Why did we choose premade datasets? Problems? And so on..
+- Research done and material used
+    --- Explain material used in 20-30 seconds
+- What's next
+
+Video planning:
+- Start with a background of cans (marvelous)
+- Switch to litter images (wek)
+- So here we would introduce to problem
+
+- Current progress:
+    - Just go over those points
+    - Form it similar to a conclusion
+    
+General info:
+- Should be around 2:30 minutes
+- "A process report, or essay, explains how something is done or how something came about. It can be written in detailed step-by-step instructions or in a story format with 
+  the instructions subtly threaded throughout the narrative. A process essay has no minimum or maximum length, but five paragraphs is the norm, including an introduction, 
+  three body paragraphs and a conclusion."

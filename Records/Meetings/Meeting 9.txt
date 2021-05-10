@@ -1,0 +1,9 @@
+Meeting 23/03/2021
+Scribe: James Florin Petri
+
+- Separeted the tasks for this week
+	- Up to Monday
+		- Heather, Cael - Take pictures of the cans for the training data
+		- Prepare the Tensorflow GPU trainer
+
+- Monday - Start labeling the images and maybe even train the NN

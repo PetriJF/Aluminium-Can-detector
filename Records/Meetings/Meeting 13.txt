@@ -1,0 +1,12 @@
+29/4/21 - 3.45
+Present:
+Heather Bruen
+James Petri (scribe)
+Cael Timmons
+
+After getting the parts each of us were assigned to write done, we put everything together and gave a basic form to the report. We also layed the ground for the next parts each of
+has to write. The new tasks each of us were assigned:
+
+Heather Bruen: Write Types of NN
+Cael Timmons: Write Training a NN
+James Petri: Write NN in detail

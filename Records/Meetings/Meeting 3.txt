@@ -1,0 +1,11 @@
+Meeting 3 [13/02/21] 16:35-17:00
+Everyone present
+Scribe: Heather
+
+Main Task for project = Classification
+* Recognising beer cans (e.g Guinness)
+* Python
+ 
+- Gather info and examples for similar projects
+- Find other projects using computer models for pictures
+- Try make a small neural network (e.g recognise colour)

@@ -1,0 +1,16 @@
+Meeting 1 [4/2/21] 17:00 - 17:25 
+Attendees - James, Cael, Heather
+ 
+•	Using raspberry pi + camera (laptop cam is ok)
+•	Need to research on MathWorks
+•	Make github account and send account names
+•	Use txt files for code
+•	Ideas for applications of neural network
+•	Team name ideas
+
+3 tasks:
+	1.	Sample codes of python and MathWorks -> Heather
+	2.	Research python -> James
+	3.	Research MathWorks -> Cael
+
+-Recorded by Heather

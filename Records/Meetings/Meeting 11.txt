@@ -1,0 +1,26 @@
+7/4/21 - 12.45
+Present:
+Heather Bruen (scribe)
+James Petri
+Cael Timmons
+
+Report:
+
+Table of Contents
+ -Front page
+ -Abstract
+ -Declaration
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25-30pg max
+ -Introduce the problem
+ -Theory
+ -Implementation (+choices)
+ -Results
+ -Conclusion
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ -Appendix
+ -References
+
+Due for Monday
+ - Different NN [Heather]
+ - Intoduce the problem [Cael]
+ - Try getting the NN working [James]

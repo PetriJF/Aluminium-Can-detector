@@ -1,0 +1,43 @@
+Intelligent Systems Project
+Meeting 2
+18:25
+08/02/2021
+
+Present:
+James Petri
+Heather Bruen
+Cael Timmons (scribe)
+
+---------------------------------------------------------
+Possible Subjects (25 mins)
+
+Easy
+>fruit
+>drink cans (quiness)
+>playing cards
+>sweet wrappers 
+
+Intermediate
+>traffic lights
+>solve rubik cube
+
+Hard
+>ReCaptcha
+
+---------------------------------------------------------
+Team name 
+>Insert Team Name Later
+
+---------------------------------------------------------
+Programming Langauge Decision (10 mins) 
+Python vs Mathworks
+
+Python chosen
+
+Python 
+> simpler and more widely used
+> more resources available for it
+
+Mathworks
+> comes with prebuilt tools
+> paid services => less resources and help available

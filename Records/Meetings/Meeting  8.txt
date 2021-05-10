@@ -1,0 +1,31 @@
+Meeting 8, 7/3/21
+Scribe: Heather Bruen
+
+about presentation/interviews and reflective journals
+___________________________________________________________________________
+Presentation:
+(Due Tuesday 9th of March)
+-5 mins
+-mention only what we know
+-5 to 6 slides (max 8)
+
+Qs
+-What applications considered. Which one was chosen. Why?
+-What neural networks theory/structures/training routines etc. 
+-What network will you use for your application. Why?	[Convulutional]
+-Have you found a worked example online for that network?	[papers+youtube]
+-What is the plan to realize your solution by the end of semester?	[taking pics,getting NN working]
+___________________________________________________________________________
+Interview:
+(on Thursday?)
+
+Qs given
+-Whats a megapixel?
+-What is grayscale?
+-What is the colourscale?
+-What is a neuron?
+-How many neurons in a NN?
+-What is CUDA? parallel computing platform and programming model developed by nvidia
+___________________________________________________________________________
+Next meeting:
+*Write script for ppt

@@ -1,0 +1,68 @@
+Intelligent Systems Project
+Meeting 6
+15:50 - 16:50
+25/02/2021
+
+Present:
+James Petri
+Heather Bruen
+Cael Timmons (scribe)
+
+---------------------------------------------------------------------
+Plan for process report video
+start:
+> goal of project - can recognising classification neural network
+
+middle:
+> sources - what others have done
+> datasets
+
+end:
+> choices we've made - python, tensorflow, kaggle etc and why
+
+
+james - editing 
+cael - finding background footage
+heather - voice over
+---------------------------------------------------------------------
+video script written up:
+
+The voice over text:
+
+Hello
+We are team 1, comprised of Cael Timmons, Heather Bruen and James Petri
+and this is our process report as of the 26th of February.
+
+Goal:
+For this year’s project we chose to make a classification neural network
+focusing on detecting aluminum cans which could be implemented in a 
+waste sorter or a waste collector robot. We chose this as pollution is a
+problem nowadays and automatic sorting and collecting of waste could 
+bring great improvements in this regard and increase the current waste
+recycling rate.
+
+Sources Used:
+The first part of the project was learning about neural networks and 
+python and then we proceeded to research the work done on this topic.
+
+Yada yada add sources
+
+Some possible complications could be deformity in the detected objects, 
+but we found sources that could help us in this regard.
+
+Yada yada sources
+
+Choices:
+We made many decisions since the start of the project, but the most 
+important ones were:
+-    We chose to use python instead mathworks as python is more versatile 
+     and it has more community support online
+-    We chose Tensorflow over OpenCV as it is easier to implement datasets 
+     into it and it has more information on doing it online.
+-    Some smaller, but notable choices were that we would use PyCharm in 
+     tandem with github and for datasets we are planning to use kaggle as it has
+     a wide range of options
+
+Conclusion / What’s next
+We will start implementing a neural network in python using tensorflow, 
+first to detect “perfect” cans, and then transition to deformed cans

@@ -1,0 +1,23 @@
+Project
+Meeting 7
+20:00 - 20:59 on the 2/3/2021
+
+Present:
+James Petri
+Heather Bruen (scribe)
+Cael Timmons 
+------------------------------------
+
+This week:			[all by Sunday]
+-try to get a NN working with Tensorflow
+-get a better understanding of NN
+-watch NN for real life examples
+-Write qs for interview on NN
+
+Presentation Plan
+-max 8 slides
+-5 mins
+
+Next week:
+- Start planning for presentation
+- prep for interview qs

@@ -1,0 +1,63 @@
+Meeting 4: 21/02/2021
+Scribe: James
+
+About video
+
+Goals:
+-Have a subsystem of a litter detection software specialising on cans
+
+Resources used:
+- Choose a neural network 
+- Find some datasets
+- 
+
+Problems/Difficulties:
+- Finding appropriate datasets
+- Accounting for deformaty
+- Accounting for external effects on the detection (If the can is in grass)
+
+Project Time/Budget:
+- Time: 
+	To apply it to a moderate level: 
+		- 8 weeks of work needed
+		- Recognize cans with a good success
+		- Recognizing cans assuming for some deformaty with mild to moderate success
+		- Reasonable attempt to account for external effects 
+- Budget:
+	Budget not determined yet, but possible costs depending on final approach may include:
+		- Access to specialized datasets
+		- Proper implementation would also need a camera with modifiable setting in order to verify different light effects
+		- Research papers that may be behind a paywall
+		- Experimental Subject Matter (Cans)
+
+Video planning:
+- Start with a background of cans (marvelous)
+- Switch to litter images (wek)
+- So here we would introduce to problem
+
+- "INTRODUCING NEURAL NETWORKS" - A possible implementation for automatically cleaning the streets of uneducted citizens
+
+- However there will me some obstacles 
+	- introducing the problems and possible fixes based on our research
+
+- Accounting for all this, our timeline for implementing this would be:
+	.... (also mark possible expenses)
+
+James: Piece the video together
+_____: Voice (do we all have to speak?) - Heather for one
+Finding copyright free videos and sending them for James to use in making the video - Cael
+
+For Project:
+
+We use TensorFlow
+Each of us has to come with:
+	By Tuesday:
+	- One paper on learning tensorflow
+	- One paper on how neural networks work
+	By Wednesday:
+	- Have PyCharm ready
+	- Try getting a kaggle dataset working (Not giving errors)
+
+Big brain task:
+Figuring how to rename wiki pages on moodle
+Figuring how to delete wiki pages on moodle
