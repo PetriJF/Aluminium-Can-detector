@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R1</folder>
+	<filename>174592070_226066379193740_3076004084338994851_n.jpg</filename>
+	<path>C:\Users\james\Desktop\Folder 4\R1\174592070_226066379193740_3076004084338994851_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>711</ymin>
+			<xmax>204</xmax>
+			<ymax>933</ymax>
+		</bndbox>
+	</object>
+</annotation>

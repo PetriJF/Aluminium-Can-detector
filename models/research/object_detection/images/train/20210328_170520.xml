@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Caels cans 1</folder>
+	<filename>20210328_170520.jpg</filename>
+	<path>C:\Users\Heather\Downloads\Caels cans 1\20210328_170520.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>256</ymin>
+			<xmax>749</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

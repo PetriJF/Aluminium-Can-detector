@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Batch1-R</folder>
+	<filename>173984106_144842830912669_8520051367517570993_n.jpg</filename>
+	<path>C:\Users\james\Desktop\Folder 4\Batch1-R\173984106_144842830912669_8520051367517570993_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>541</ymin>
+			<xmax>285</xmax>
+			<ymax>1120</ymax>
+		</bndbox>
+	</object>
+</annotation>

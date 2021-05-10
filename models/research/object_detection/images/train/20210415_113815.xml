@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Caels cans 3</folder>
+	<filename>20210415_113815.jpg</filename>
+	<path>C:\Users\caelt\Desktop\Uni\year 2\Semester 2\EE297 - Intelligent Systems Project\Caels dataset images\Caels cans 3\20210415_113815.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>573</xmin>
+			<ymin>49</ymin>
+			<xmax>749</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>572</xmin>
+			<ymin>327</ymin>
+			<xmax>719</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

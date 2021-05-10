@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Cans- Heather</folder>
+	<filename>IMG20210328004137.jpg</filename>
+	<path>C:\Users\Heather\Pictures\cans\Cans- Heather\IMG20210328004137.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>124</ymin>
+			<xmax>822</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+</annotation>
