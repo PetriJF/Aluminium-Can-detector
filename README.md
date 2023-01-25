@@ -1,4 +1,4 @@
-# EE297_Project
+# Aluminium Can Detector
 
 This is where we will organize the whole project.
 
